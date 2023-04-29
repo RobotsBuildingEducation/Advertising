@@ -1,5 +1,31 @@
 # Advertising
-Onboarding documents
+This is an onboarding document to help you send me the right information to get you started with advertisements on Robots Building Education.
+**For now, there will only be ultimately be 16 planned advertisement spaces**. You're encouraged to apply to them anyway even if the product market fit may not initially seem intuitive. I will try my best to give people proper notice of any changes or removals.
+
+It will be on these subjects:
+
+Coding Lessons
+1. Introduction
+2. Coding fundamentals
+3. Frontend
+4. Backend
+5. Creating an app
+
+Creator Lessons
+1. Defining purpose
+2. Philosophy @ RO.B.E
+3. User experiences and interfaces
+4. Content review (20M+ views)
+5. Influence & expression
+6. Abraham Lincoln
+
+Dealer Lessons
+1. Creating competitive entry level resumes
+2. Focus investing
+3. Wealth management
+4. Financial technology investing
+5. Social media investing
+
 
 
 ### 1. The name of your business (Required)
@@ -9,7 +35,9 @@ Robots Building Education
 Community, Banking & Education
 
 ### 3. An image or SVG of your logo (Required)
-Please provide a link if available: https://user-images.githubusercontent.com/65219666/235270575-77628282-30f2-42af-b0b3-ee360c5da690.png
+_Please provide a reliable link. PNG and SVG files are preferred
+_
+https://user-images.githubusercontent.com/65219666/235270575-77628282-30f2-42af-b0b3-ee360c5da690.png
 
 <img width="110" alt="image" src="https://user-images.githubusercontent.com/65219666/235270678-9d260086-82c1-4e52-b566-81ef92104a25.png">
 
@@ -26,11 +54,9 @@ https://robotsbuildingeducation.com/
 
 Link: https://res.cloudinary.com/eduprojectsil/video/upload/v1682741878/IMG_8861_vsqbhv.mov
 
-Demo: https://user-images.githubusercontent.com/65219666/235283126-8a7835ef-33ab-4118-b926-5de9b31deb67.mov
 
-
-
-### 7. A blog post or visual email letter to post on Patreon - this is your space to speak to an audience directly (Optional)
+### 7. A blog post or visual email letter to post on Patreon (Optional)
+_this is your space to speak to an audience directly_
 
 Hello people from Patreon. This is Sheilfer from RO.B.E. I started this app because I like turtles. The reason I'm reaching out to you all is because I can't swim. Buy dog coins. Thank you all for coming to my ted talk, it's been a privilege being able to deliver this message to you guys. To conclude, here is a speech by Abraham Lincoln.
 
@@ -64,10 +90,14 @@ by the people, for the people, shall not perish from the earth.
 
 
 
-### 8. Optional: a learning subject you would like generated and curated with AI 
-(this feature is under development. I will hand curate until I write code to accomplish this)
+### 8. A learning subject you would like generated and curated with AI (Optional)
+_this feature is under development. I will hand curate until I write code to accomplish this_
+
 "how AI can help teachers manage their classrooms"
 <br/><br/>
 <img width="244" alt="image" src="https://user-images.githubusercontent.com/65219666/235283808-4b7ba804-c984-49dc-a089-0fb2cc4e386e.png">
 
 
+### 9. Additional Questions (optional)
+1. I have a question about this idea. Let me know what you think.
+2. When do you expect prices to go up? Can you show more transparency about who's participating or buying into other ad spaces?
